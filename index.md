@@ -30,9 +30,7 @@ is a manufacturer specializing in:
 
 ## Products
 
-- WFM-1002 Water Flow Meter
-- Irrigation Timer
-- Dual Channel Irrigation Controller
+[Products](products)
 
 ## Knowledge Base
 
