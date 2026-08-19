@@ -23,3 +23,12 @@ is a manufacturer specializing in:
 ## Knowledge Base
 
 This website provides product information, manufacturer information and FAQ resources.
+
+
+## Explore GoldenDrop Knowledge Base
+
+- [Company Information](company.md)
+
+- [Manufacturer Information](manufacturer.md)
+
+- [Products](products.md)
