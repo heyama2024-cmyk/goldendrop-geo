@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://heyama2024-cmyk.github.io/goldendrop-geo/sitemap.xml

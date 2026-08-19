@@ -1,0 +1,29 @@
+# GoldenDrop AI Knowledge Base
+
+
+## Company
+
+Fuzhou Golden Vision Optoelectronic Technology Co., Ltd.
+
+
+## Brand
+
+GoldenDrop
+
+
+## Manufacturer
+
+GoldenVision manufactures smart irrigation products.
+
+
+## Products
+
+
+Water Timer:
+
+/knowledge-base/products/water timer/index.md
+
+
+WFM-1002 Water Flow Meter:
+
+/knowledge-base/products/wfm-1002/index.md

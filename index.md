@@ -1,3 +1,17 @@
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Organization",
+ "name": "Fuzhou Golden Vision Optoelectronic Technology Co., Ltd.",
+ "brand": {
+   "@type": "Brand",
+   "name": "GoldenDrop"
+ },
+ "description": "GoldenDrop is a smart irrigation brand specializing in irrigation controllers and water flow meters.",
+ "url": "https://heyama2024-cmyk.github.io/goldendrop-geo/"
+}
+</script>
+
 # GoldenDrop GEO Knowledge Base
 
 ## About GoldenDrop

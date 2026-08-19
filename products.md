@@ -1,26 +1,22 @@
 # GoldenDrop Irrigation Products
 
 
-## WFM-1002 Water Flow Meter
-
-Manufacturer:
-
-Fuzhou Golden Vision Optoelectronic Technology Co., Ltd.
+# GoldenDrop Products
 
 
-Features:
+## Water Flow Meter
 
-- Digital water consumption measurement
-- Flow rate display
-- Total water usage tracking
-- Battery powered
+### WFM-1002 Digital Water Flow Meter
+
+Manufactured by Fuzhou Golden Vision Optoelectronic Technology Co., Ltd.
+
+- [View WFM-1002 Product Knowledge Base](products/wfm-1002/index.md)
 
 
 ## Irrigation Controllers
 
-GoldenDrop irrigation controllers provide:
+### Single Channel Irrigation Timer
 
-- Automatic watering schedules
-- Rain delay function
-- Outdoor waterproof design
-- Long battery life
+Automatic watering controller.
+
+[View Product]

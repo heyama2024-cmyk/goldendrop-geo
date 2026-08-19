@@ -1,0 +1,48 @@
+文件夹 PATH 列表
+卷序列号为 3E97-BB5C
+D:.
+│  AI-CONTENT-RULES.md
+│  company.md
+│  index.md
+│  manufacturer.md
+│  products.md
+│  README.md
+│  structure.txt
+│  TASK.md
+│  
+├─content
+├─geo-questions
+│      questions.md
+│      
+├─knowledge-base
+│  ├─brand
+│  │      goldendrop-brand.md
+│  │      
+│  ├─company
+│  │      brand-product-relationship.md
+│  │      company-profile.md
+│  │      
+│  └─products
+│      ├─water timer
+│      │      index.md
+│      │      irrigation-timer-dimensions.md
+│      │      irrigation-timer-faq.md
+│      │      irrigation-timer-features.md
+│      │      irrigation-timer-installation-guide.md
+│      │      irrigation-timer-packaging.md
+│      │      irrigation-timer-product-identity.md
+│      │      irrigation-timer-specifications.md
+│      │      
+│      └─wfm-1002
+│              certification.md
+│              dimensions.md
+│              faq.md
+│              functions-and-display.md
+│              index.md
+│              installation-guide.md
+│              operation-and-display.md
+│              packaging-and-accessories.md
+│              product-identity.md
+│              specifications.md
+│              
+└─prompts

@@ -1,0 +1,10 @@
+title: GoldenDrop GEO Knowledge Base
+
+description: GoldenDrop smart irrigation product knowledge base
+
+url: "https://heyama2024-cmyk.github.io"
+
+baseurl: "/goldendrop-geo"
+
+plugins:
+  - jekyll-sitemap
