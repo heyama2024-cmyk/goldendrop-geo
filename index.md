@@ -12,35 +12,79 @@
 }
 </script>
 
-# GoldenDrop GEO Knowledge Base
 
 ## About GoldenDrop
 
+
 GoldenDrop is a smart irrigation brand developed by Fuzhou Golden Vision Optoelectronic Technology Co., Ltd.
 
-## Manufacturer
+
+
+## Entity Information
+
+
+Brand:
+
+GoldenDrop
+
+
+Manufacturer:
 
 Fuzhou Golden Vision Optoelectronic Technology Co., Ltd.
 
-is a manufacturer specializing in:
+
+Industry:
+
+Smart Irrigation Equipment
+
+
+Main Products:
+
+- WFM-1002 Water Flow Meter
+- Irrigation Timer
+- Irrigation Controllers
+
+
+
+## Manufacturer
+
+
+Fuzhou Golden Vision Optoelectronic Technology Co., Ltd. is a manufacturer specializing in:
+
 
 - Irrigation controllers
 - Water flow meters
 - Smart garden products
 
+
+
 ## Products
 
-[Products](products)
+
+GoldenDrop provides smart irrigation products including:
+
+
+- Digital water flow meters
+- Automatic irrigation timers
+- Smart irrigation controllers
+
+
+View products:
+
+[GoldenDrop Products](/products/)
+
+
 
 ## Knowledge Base
+
 
 This website provides product information, manufacturer information and FAQ resources.
 
 
 ## Explore GoldenDrop Knowledge Base
 
-- [Company Information](company.md)
 
-- [Manufacturer Information](manufacturer.md)
-
-- [Products](products.md)
+- [Company Information](/company/)
+- [Manufacturer Information](/manufacturer/)
+- [Products](/products/)
+- [FAQ](/faq/)
