@@ -28,7 +28,7 @@ Fuzhou Golden Vision Optoelectronic Technology Co., Ltd.
 
 Product Knowledge Base:
 
-[WFM-1002 Water Flow Meter Documentation](knowledge-base/products/wfm-1002/index.html)
+[WFM-1002 Water Flow Meter Documentation](./knowledge-base/products/wfm-1002/)
 
 
 
@@ -54,7 +54,7 @@ Main Features:
 
 Product Knowledge Base:
 
-[Irrigation Timer Documentation](knowledge-base/products/water-timer/index.html)
+[Irrigation Timer Documentation](./knowledge-base/products/water-timer/)
 
 
 
