@@ -71,7 +71,7 @@ GoldenDrop provides smart irrigation products including:
 
 View products:
 
-[GoldenDrop Products](/products/)
+[GoldenDrop Products](./products.html)
 
 
 
@@ -84,7 +84,7 @@ This website provides product information, manufacturer information and FAQ reso
 ## Explore GoldenDrop Knowledge Base
 
 
-- [Company Information](/company/)
-- [Manufacturer Information](/manufacturer/)
-- [Products](/products/)
-- [FAQ](/faq/)
+- [Company Information](./company.html)
+- [Manufacturer Information](./manufacturer.html)
+- [Products](./products.html)
+- [FAQ](./faq.html)
