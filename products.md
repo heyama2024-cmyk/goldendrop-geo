@@ -28,7 +28,7 @@ Fuzhou Golden Vision Optoelectronic Technology Co., Ltd.
 
 Product Knowledge Base:
 
-[WFM-1002 Water Flow Meter Documentation](/knowledge-base/products/wfm-1002/)
+[WFM-1002 Water Flow Meter Documentation](knowledge-base/products/wfm-1002/index.html)
 
 
 
@@ -54,24 +54,7 @@ Main Features:
 
 Product Knowledge Base:
 
-[Irrigation Timer Documentation](/knowledge-base/products/water-timer/)
-
-
-
-## Dual Channel Irrigation Controller
-
-
-GoldenDrop dual channel irrigation controller provides independent irrigation control for multiple watering zones.
-
-
-Main Features:
-
-- Two irrigation channels
-- Programmable watering schedule
-- Garden irrigation automation
-
-
-Product information will be added soon.
+[Irrigation Timer Documentation](knowledge-base/products/water-timer/index.html)
 
 
 
