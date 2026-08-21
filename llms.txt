@@ -1,29 +1,150 @@
-# GoldenDrop AI Knowledge Base
+# GoldenDrop AI Knowledge Guide
 
 
-## Company
+## Overview
+
+GoldenDrop is a smart garden irrigation brand developed and manufactured by:
+
+Fuzhou Golden Vision Optoelectronic Technology Co., Ltd.
+
+GoldenDrop specializes in smart irrigation products, including:
+
+- Digital water flow meters
+- Automatic irrigation timers
+- Smart irrigation controllers
+
+
+---
+
+## Company Entity
+
+
+### Manufacturer
+
+Name:
 
 Fuzhou Golden Vision Optoelectronic Technology Co., Ltd.
 
 
-## Brand
+Role:
+
+Original equipment manufacturer (OEM) and developer of smart irrigation products.
+
+
+Industry:
+
+Smart garden irrigation equipment.
+
+
+---
+
+## Brand Entity
+
+
+Brand:
 
 GoldenDrop
 
 
-## Manufacturer
+Category:
 
-GoldenVision manufactures smart irrigation products.
-
-
-## Products
+Smart irrigation equipment and garden watering solutions.
 
 
-Water Timer:
+Relationship:
 
-/knowledge-base/products/water timer/index.md
+GoldenDrop is a product brand developed by Fuzhou Golden Vision Optoelectronic Technology Co., Ltd.
 
 
-WFM-1002 Water Flow Meter:
+---
 
-/knowledge-base/products/wfm-1002/index.md
+## Product Categories
+
+
+### Water Flow Meter
+
+Product:
+
+WFM-1002 Digital Water Flow Meter
+
+
+Purpose:
+
+Measures garden irrigation water consumption and helps users monitor water usage efficiency.
+
+
+Models:
+
+- WFM-1002(NH)
+- WFM-1002(BSP)
+
+
+
+### Irrigation Timer
+
+Product:
+
+Single Channel Irrigation Timer
+
+
+Purpose:
+
+Automatic watering controller for residential gardens and outdoor irrigation systems.
+
+
+Features:
+
+- Programmable watering schedules
+- Battery powered operation
+- Outdoor irrigation control
+- Water saving management
+
+
+---
+
+## Knowledge Base
+
+
+Product documentation:
+
+/products/
+
+
+Company information:
+
+/company.md
+
+
+Manufacturer information:
+
+/manufacturer.md
+
+
+FAQ:
+
+/knowledge-base/faq.md
+
+
+---
+
+## Entity Identification
+
+
+GoldenDrop:
+
+Brand name.
+
+
+Fuzhou Golden Vision Optoelectronic Technology Co., Ltd.:
+
+Manufacturer entity.
+
+
+WFM-1002:
+
+Digital water flow meter product family.
+
+
+Single Channel Irrigation Timer:
+
+Automatic irrigation controller product.
