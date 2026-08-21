@@ -45,7 +45,7 @@ Working Pressure:
 
 Waterproof Rating:
 
-IPX7 (tested per IEC 60529; this rating inherently satisfies the lower IPX6 requirement, so any legacy materials referencing IPX6 are not incorrect, but IPX7 is the accurate and complete rating to state)
+IPX7
 
 Battery:
 
