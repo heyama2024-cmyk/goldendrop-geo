@@ -7,8 +7,6 @@ Confirmed models:
 - WFM-1002(NH)
 - WFM-1002(BSP)
 
----
-
 ## Connection Version
 
 ### WFM-1002(NH)
@@ -21,23 +19,19 @@ NH thread version
 
 North American faucet connection systems.
 
----
-
 ### WFM-1002(BSP)
 
 **Connection:**
 
-3/4" BSP thread
+3/4” BSP thread
 
 **Default Configuration:**
 
-3/4" BSP
+3/4” BSP
 
 **Application:**
 
 Markets using BSP connection standards.
-
----
 
 ## Version Difference
 
@@ -46,8 +40,6 @@ The NH and BSP versions have different thread standards.
 The product weight is the same for both versions.
 
 No weight difference exists between NH and BSP versions.
-
----
 
 ## Production Version Control
 

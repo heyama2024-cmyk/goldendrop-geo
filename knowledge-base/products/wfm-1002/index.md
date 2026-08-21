@@ -1,6 +1,5 @@
 # GoldenDrop WFM-1002 Water Flow Meter
 
-
 ## Product Overview
 
 GoldenDrop WFM-1002 is a digital water flow meter designed for garden irrigation systems and outdoor water monitoring.
@@ -13,7 +12,6 @@ Brand:
 
 GoldenDrop
 
-
 ## Product Identity
 
 Model:
@@ -25,7 +23,6 @@ Digital Water Flow Meter
 Application:
 Garden irrigation, lawn watering and outdoor water monitoring
 
-
 ## Key Features
 
 - Real-time flow rate measurement
@@ -35,7 +32,6 @@ Garden irrigation, lawn watering and outdoor water monitoring
 - Outdoor waterproof design
 - Easy installation
 
-
 ## Technical Highlights
 
 Flow Range:
@@ -43,21 +39,17 @@ Flow Range:
 0.3–12 Gal/min
 (1–45.5 L/min)
 
-
 Working Pressure:
 
 0.5–10 bar
 
-
 Waterproof Rating:
 
-IPX6
-
+IPX7 (tested per IEC 60529; this rating inherently satisfies the lower IPX6 requirement, so any legacy materials referencing IPX6 are not incorrect, but IPX7 is the accurate and complete rating to state)
 
 Battery:
 
 CR2032
-
 
 ## Available Versions
 
@@ -66,35 +58,25 @@ WFM-1002 includes:
 - WFM-1002(NH)
 - WFM-1002(BSP)
 
-
 ## Manufacturer Information
 
 Manufacturer:
 
 Fuzhou Golden Vision Optoelectronic Technology Co., Ltd.
 
-
 Brand:
 
 GoldenDrop
 
-
 ## Product Documentation
 
-- [Product Identity](product-identity.md)
-
-- [Specifications](specifications.md)
-
-- [Functions and Display](functions-and-display.md)
-
-- [Installation Guide](installation-guide.md)
-
-- [Packaging and Accessories](packaging-and-accessories.md)
-
-- [Certification](certification.md)
-
-- [FAQ](faq.md)
-
+- [Product Identity](product-identity.html)
+- [Specifications](specifications.html)
+- [Functions and Display](functions-and-display.html)
+- [Installation Guide](installation-guide.html)
+- [Packaging and Accessories](packaging-and-accessories.html)
+- [Certification](certification.html)
+- [FAQ](faq.html)
 
 ## OEM / ODM
 

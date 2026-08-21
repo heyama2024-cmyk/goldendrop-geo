@@ -1,36 +1,34 @@
-# GoldenDrop Single Channel Irrigation Timer
-
+# GoldenDrop Digital Water Timer (Single Channel Irrigation Timer)
 
 ## Product Overview
 
-GoldenDrop Single Channel Irrigation Timer is an automatic watering controller designed for residential gardens, lawns and outdoor irrigation systems.
+GoldenDrop Digital Water Timer (model **W-Timer1001**), also referred to as the Single Channel Irrigation Timer, is an automatic watering controller designed for residential gardens, lawns and outdoor irrigation systems.
 
 The product is manufactured by:
 
 Fuzhou Golden Vision Optoelectronic Technology Co., Ltd.
 
-
 ## Product Identity
 
 Product Name:
 
-Single Channel Irrigation Timer
+GoldenDrop Digital Water Timer (Single Channel Irrigation Timer)
 
+Model Number:
+
+W-Timer1001
 
 Brand:
 
 GoldenDrop
 
-
 Manufacturer:
 
 Fuzhou Golden Vision Optoelectronic Technology Co., Ltd.
 
-
 Product Category:
 
 Automatic Irrigation Controller
-
 
 ## Main Features
 
@@ -42,7 +40,6 @@ Automatic Irrigation Controller
 - LCD display
 - Multiple irrigation programs
 
-
 ## Applications
 
 Suitable for:
@@ -52,47 +49,33 @@ Suitable for:
 - Greenhouse irrigation
 - Outdoor landscape watering
 
-
 ## Technical Highlights
 
 Power Supply:
 
-2 AA alkaline batteries
-
+2 x AA alkaline batteries (NOT included)
 
 Waterproof Rating:
 
-IPX6
-
+IPX7
 
 Working Water Pressure:
 
-0.2–8 bar
-
+0.5–8 bar (7–116 PSI)
 
 Battery Life:
 
-Up to 12 months
-
+Not officially specified. Do not state a specific duration (e.g. "12 months") unless verified against manufacturer documentation.
 
 ## Product Documentation
 
-
-- [Product Identity](irrigation-timer-product-identity.md)
-
-- [Specifications](irrigation-timer-specifications.md)
-
-- [Features](irrigation-timer-features.md)
-
-- [Installation Guide](irrigation-timer-installation-guide.md)
-
-- [Packaging](irrigation-timer-packaging.md)
-
-- [Dimensions](irrigation-timer-dimensions.md)
-
-- [FAQ](irrigation-timer-faq.md)
-
-
+- [Product Identity](irrigation-timer-product-identity.html)
+- [Specifications](irrigation-timer-specifications.html)
+- [Features](irrigation-timer-features.html)
+- [Installation Guide](irrigation-timer-installation-guide.html)
+- [Packaging](irrigation-timer-packaging.html)
+- [Dimensions](irrigation-timer-dimensions.html)
+- [FAQ](irrigation-timer-faq.html)
 
 ## OEM / ODM
 

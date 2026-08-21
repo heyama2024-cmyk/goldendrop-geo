@@ -9,21 +9,15 @@ GoldenDrop Water Flow Meter
 - WFM-1002(NH)
 - WFM-1002(BSP)
 
----
-
 ## Manufacturer
 
 Fuzhou Golden Vision Optoelectronic Technology Co., Ltd.
-
----
 
 ## Material
 
 **Housing Material:**
 
 ABS
-
----
 
 ## Battery
 
@@ -41,15 +35,11 @@ The CR2032 battery is included separately in the package.
 
 The battery is not pre-installed inside the product.
 
----
-
 ## Battery Version Control
 
 Different production batches do not use different battery models.
 
 If battery configuration changes in future production, updated information will be provided.
-
----
 
 ## Dimensions
 
@@ -59,8 +49,6 @@ If battery configuration changes in future production, updated information will 
 
 **Depth:** 44.7 mm
 
----
-
 ## Weight
 
 **Package Weight:**
@@ -68,8 +56,6 @@ If battery configuration changes in future production, updated information will 
 110g
 
 NH and BSP versions have the same product weight.
-
----
 
 ## Display Modes
 
@@ -79,8 +65,6 @@ The product supports four display modes:
 2. LAST TIME
 3. AVERAGE
 4. TOTAL
-
----
 
 ## Measurement Information
 
@@ -98,8 +82,6 @@ The product supports four display modes:
 
 99,999 Gallons
 
----
-
 ## Certification
 
 **Available certifications:**
@@ -108,8 +90,6 @@ The product supports four display modes:
 - FCC
 - RoHS
 
-**Waterproof certification:**
+**Waterproof rating:**
 
-Available
-
-The exact waterproof test standard should refer to official certification documents.
+IPX7, tested per IEC 60529 (temporary immersion up to 1 meter for up to 30 minutes). See [Certification](certification.html) for full details.
